@@ -1,0 +1,21 @@
+C:\Users\Zeroth\Taller 1\bin\Debug\net8.0\Taller 1.exe
+C:\Users\Zeroth\Taller 1\bin\Debug\net8.0\Taller 1.deps.json
+C:\Users\Zeroth\Taller 1\bin\Debug\net8.0\Taller 1.runtimeconfig.json
+C:\Users\Zeroth\Taller 1\bin\Debug\net8.0\Taller 1.dll
+C:\Users\Zeroth\Taller 1\bin\Debug\net8.0\Taller 1.pdb
+C:\Users\Zeroth\Taller 1\obj\Debug\net8.0\Taller 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeroth\Taller 1\obj\Debug\net8.0\Taller 1.AssemblyInfoInputs.cache
+C:\Users\Zeroth\Taller 1\obj\Debug\net8.0\Taller 1.AssemblyInfo.cs
+C:\Users\Zeroth\Taller 1\obj\Debug\net8.0\Taller 1.csproj.CoreCompileInputs.cache
+C:\Users\Zeroth\Taller 1\obj\Debug\net8.0\Taller 1.dll
+C:\Users\Zeroth\Taller 1\obj\Debug\net8.0\refint\Taller 1.dll
+C:\Users\Zeroth\Taller 1\obj\Debug\net8.0\Taller 1.pdb
+C:\Users\Zeroth\Taller 1\obj\Debug\net8.0\Taller 1.genruntimeconfig.cache
+C:\Users\Zeroth\Taller 1\obj\Debug\net8.0\ref\Taller 1.dll
+C:\Users\Zeroth\Downloads\Taller 1\Taller 1\obj\Debug\net8.0\Taller 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeroth\Downloads\Taller 1\Taller 1\obj\Debug\net8.0\Taller 1.AssemblyInfoInputs.cache
+C:\Users\Zeroth\Downloads\Taller 1\Taller 1\obj\Debug\net8.0\Taller 1.AssemblyInfo.cs
+C:\Users\Zeroth\Downloads\Taller 1\Taller 1\obj\Debug\net8.0\Taller 1.csproj.CoreCompileInputs.cache
+C:\Users\Zeroth\Downloads\Taller 1\Taller 1\obj\Debug\net8.0\Taller 1.dll
+C:\Users\Zeroth\Downloads\Taller 1\Taller 1\obj\Debug\net8.0\refint\Taller 1.dll
+C:\Users\Zeroth\Downloads\Taller 1\Taller 1\obj\Debug\net8.0\Taller 1.pdb
